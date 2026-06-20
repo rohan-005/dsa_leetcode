@@ -222,4 +222,20 @@
 | ------- | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/rohan-005/dsa_leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/rohan-005/dsa_leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/rohan-005/dsa_leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/rohan-005/dsa_leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/rohan-005/dsa_leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/rohan-005/dsa_leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
