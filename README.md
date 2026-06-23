@@ -22,6 +22,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rohan-005/dsa_leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/rohan-005/dsa_leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rohan-005/dsa_leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/rohan-005/dsa_leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -231,6 +232,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/rohan-005/dsa_leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rohan-005/dsa_leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/rohan-005/dsa_leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rohan-005/dsa_leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/rohan-005/dsa_leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/rohan-005/dsa_leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rohan-005/dsa_leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -245,6 +247,7 @@
 | [0100-same-tree](https://github.com/rohan-005/dsa_leetcode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rohan-005/dsa_leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/rohan-005/dsa_leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rohan-005/dsa_leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/rohan-005/dsa_leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/rohan-005/dsa_leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rohan-005/dsa_leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -269,6 +272,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/rohan-005/dsa_leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rohan-005/dsa_leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/rohan-005/dsa_leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rohan-005/dsa_leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/rohan-005/dsa_leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/rohan-005/dsa_leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rohan-005/dsa_leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
