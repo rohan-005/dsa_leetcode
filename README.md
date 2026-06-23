@@ -4,6 +4,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0227-basic-calculator-ii](https://github.com/rohan-005/dsa_leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rohan-005/dsa_leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/rohan-005/dsa_leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/rohan-005/dsa_leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -137,6 +138,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0227-basic-calculator-ii](https://github.com/rohan-005/dsa_leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [1622-fancy-sequence](https://github.com/rohan-005/dsa_leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rohan-005/dsa_leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rohan-005/dsa_leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -204,6 +206,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0227-basic-calculator-ii](https://github.com/rohan-005/dsa_leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [2751-robot-collisions](https://github.com/rohan-005/dsa_leetcode/tree/main/2751-robot-collisions/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
