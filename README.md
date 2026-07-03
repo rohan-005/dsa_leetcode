@@ -39,11 +39,13 @@
 | [0239-sliding-window-maximum](https://github.com/rohan-005/dsa_leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rohan-005/dsa_leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/rohan-005/dsa_leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/rohan-005/dsa_leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/rohan-005/dsa_leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/rohan-005/dsa_leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0643-maximum-average-subarray-i](https://github.com/rohan-005/dsa_leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/rohan-005/dsa_leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rohan-005/dsa_leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rohan-005/dsa_leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
