@@ -225,6 +225,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/rohan-005/dsa_leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rohan-005/dsa_leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -297,4 +298,8 @@
 | [0098-validate-binary-search-tree](https://github.com/rohan-005/dsa_leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rohan-005/dsa_leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rohan-005/dsa_leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/rohan-005/dsa_leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 <!---LeetCode Topics End-->
