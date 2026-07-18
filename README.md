@@ -11,6 +11,7 @@
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/rohan-005/dsa_leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rohan-005/dsa_leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rohan-005/dsa_leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rohan-005/dsa_leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rohan-005/dsa_leetcode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/rohan-005/dsa_leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rohan-005/dsa_leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -50,6 +51,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rohan-005/dsa_leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rohan-005/dsa_leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rohan-005/dsa_leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rohan-005/dsa_leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/rohan-005/dsa_leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/rohan-005/dsa_leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rohan-005/dsa_leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
