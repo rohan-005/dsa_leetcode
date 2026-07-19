@@ -18,6 +18,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/rohan-005/dsa_leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/rohan-005/dsa_leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/rohan-005/dsa_leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/rohan-005/dsa_leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/rohan-005/dsa_leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/rohan-005/dsa_leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/rohan-005/dsa_leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
@@ -216,6 +217,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0227-basic-calculator-ii](https://github.com/rohan-005/dsa_leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/rohan-005/dsa_leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2751-robot-collisions](https://github.com/rohan-005/dsa_leetcode/tree/main/2751-robot-collisions/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -225,6 +227,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rohan-005/dsa_leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/rohan-005/dsa_leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/rohan-005/dsa_leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/rohan-005/dsa_leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2751-robot-collisions](https://github.com/rohan-005/dsa_leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/rohan-005/dsa_leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Recursion
