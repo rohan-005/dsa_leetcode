@@ -46,6 +46,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/rohan-005/dsa_leetcode/tree/main/0018-4sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/rohan-005/dsa_leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/rohan-005/dsa_leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/rohan-005/dsa_leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -141,6 +142,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/rohan-005/dsa_leetcode/tree/main/0018-4sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/rohan-005/dsa_leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/rohan-005/dsa_leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Math
@@ -180,6 +182,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/rohan-005/dsa_leetcode/tree/main/0018-4sum/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/rohan-005/dsa_leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rohan-005/dsa_leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/rohan-005/dsa_leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
