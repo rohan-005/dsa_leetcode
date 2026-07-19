@@ -105,6 +105,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/rohan-005/dsa_leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/rohan-005/dsa_leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rohan-005/dsa_leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Binary Search
@@ -145,6 +146,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/rohan-005/dsa_leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0069-sqrtx](https://github.com/rohan-005/dsa_leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/rohan-005/dsa_leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rohan-005/dsa_leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
