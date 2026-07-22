@@ -48,6 +48,7 @@
 | ------- | ------- |
 | [0018-4sum](https://github.com/rohan-005/dsa_leetcode/tree/main/0018-4sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/rohan-005/dsa_leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0496-next-greater-element-i](https://github.com/rohan-005/dsa_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/rohan-005/dsa_leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/rohan-005/dsa_leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rohan-005/dsa_leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -80,6 +81,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rohan-005/dsa_leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0496-next-greater-element-i](https://github.com/rohan-005/dsa_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/rohan-005/dsa_leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/rohan-005/dsa_leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/rohan-005/dsa_leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -222,6 +224,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0227-basic-calculator-ii](https://github.com/rohan-005/dsa_leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0496-next-greater-element-i](https://github.com/rohan-005/dsa_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/rohan-005/dsa_leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2751-robot-collisions](https://github.com/rohan-005/dsa_leetcode/tree/main/2751-robot-collisions/) | Hard |
 ## Simulation
@@ -319,4 +322,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rohan-005/dsa_leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/rohan-005/dsa_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
