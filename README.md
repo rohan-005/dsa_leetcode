@@ -53,6 +53,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/rohan-005/dsa_leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0812-largest-triangle-area](https://github.com/rohan-005/dsa_leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/rohan-005/dsa_leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/rohan-005/dsa_leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rohan-005/dsa_leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rohan-005/dsa_leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rohan-005/dsa_leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -123,6 +124,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/rohan-005/dsa_leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rohan-005/dsa_leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rohan-005/dsa_leetcode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/rohan-005/dsa_leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -156,6 +158,7 @@
 | [0069-sqrtx](https://github.com/rohan-005/dsa_leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/rohan-005/dsa_leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0812-largest-triangle-area](https://github.com/rohan-005/dsa_leetcode/tree/main/0812-largest-triangle-area/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/rohan-005/dsa_leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rohan-005/dsa_leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1622-fancy-sequence](https://github.com/rohan-005/dsa_leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rohan-005/dsa_leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -190,6 +193,7 @@
 | ------- | ------- |
 | [0018-4sum](https://github.com/rohan-005/dsa_leetcode/tree/main/0018-4sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohan-005/dsa_leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/rohan-005/dsa_leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/rohan-005/dsa_leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rohan-005/dsa_leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/rohan-005/dsa_leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
