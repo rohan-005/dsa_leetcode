@@ -51,6 +51,7 @@
 | [0239-sliding-window-maximum](https://github.com/rohan-005/dsa_leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/rohan-005/dsa_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/rohan-005/dsa_leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0812-largest-triangle-area](https://github.com/rohan-005/dsa_leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/rohan-005/dsa_leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rohan-005/dsa_leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rohan-005/dsa_leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -154,6 +155,7 @@
 | [0029-divide-two-integers](https://github.com/rohan-005/dsa_leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0069-sqrtx](https://github.com/rohan-005/dsa_leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/rohan-005/dsa_leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0812-largest-triangle-area](https://github.com/rohan-005/dsa_leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rohan-005/dsa_leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1622-fancy-sequence](https://github.com/rohan-005/dsa_leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rohan-005/dsa_leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -334,4 +336,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohan-005/dsa_leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/rohan-005/dsa_leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 <!---LeetCode Topics End-->
